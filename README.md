@@ -36,6 +36,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5787FF&height=60&section=footer&width=100" width = 1000 />
 </p>
-
-<a href="https://github.com/mhnasser/github-readme-activity-graph"><img alt="mhnasser;s graph" src="https://activity-graph.herokuapp.com/graph?username=mhnasser&bg_color=0D1117&color=46B5D6&line=7FFC5D&point=FFFFFF&hide_border=true" /></a>
-<br/>
