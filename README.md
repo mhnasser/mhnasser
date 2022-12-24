@@ -24,7 +24,7 @@
 <br>
 
 <h3 align="left">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasser&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="mhnasser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasser&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mhnasser" /></p>
 
 <br>
 
