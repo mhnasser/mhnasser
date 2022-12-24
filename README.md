@@ -33,7 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhnasser&theme=blue-green" alt="mhnasser" width="48%"/> 
 </p>
 
-[![Mohamad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhnasser&custom_title=My%20Activities%20title&hide_border=true&theme=github-dark)](https://github.com/mhnasser/github-readme-activity-graph)
+[![Mohamad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhnasser&custom_title=Mohamad's%20Activities&hide_border=true&theme=github-dark)](https://github.com/mhnasser/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5787FF&height=60&section=footer&width=100" width = 1000 />
