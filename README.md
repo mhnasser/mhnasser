@@ -29,7 +29,7 @@
 <br>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&locale=en&theme=blue-green" alt="mhnasser" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&locale=en&theme=chartreuse-dark" alt="mhnasser" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhnasser&theme=blue-green" alt="mhnasser" width="48%"/> 
 </p>
 
