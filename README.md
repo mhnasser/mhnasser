@@ -22,4 +22,4 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=transparent" width="400" height="145"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&theme=transparent" width="400" height="145"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&theme=transparent&layout=compact"> 
