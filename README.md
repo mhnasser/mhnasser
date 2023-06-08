@@ -22,3 +22,4 @@
 </p>
 
 ![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=transparent)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&layout=compact&theme=transparent)](https://github.com/mhnasser/github-readme-stats)
