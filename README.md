@@ -25,5 +25,5 @@
 <h3 align="left">Github Stats:</h3>
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=transparent" width="400" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&theme=transparent&layout=compact"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&theme=transparent&layout=compact" width="400" height="145"/> 
 </p>
