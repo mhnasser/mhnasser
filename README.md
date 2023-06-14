@@ -7,7 +7,6 @@
 - 📫 How to reach me: **mohamad.nasser@outlook.com.br**
 
 - 📄 Certificates -> [Drive folder link](https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing)
-<br>
 
 ------------
 <h3 align="left">Connect with me:</h3>
