@@ -26,8 +26,8 @@
 ------------
 <h3 align="left">Github Stats:</h3>
 <a href="https://www.mhnasser.com/">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=4&exclude_repo=comp426,Redventures-Movie-Quotes&theme=cobalt&bg_color=ffffff00" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=cobalt&bg_color=ffffff00" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=4&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight&bg_color=ffffff00" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&bg_color=ffffff00" />
 </a>
 
 [![Mohamad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhnasser&hide_title=true&hide_border=true&bg_color=ffffff00&color=5168d6&line=81d4df&point=4184c3)](https://github.com/mhnasser/github-readme-activity-graph)
