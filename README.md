@@ -30,4 +30,4 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&bg_color=ffffff00" />
 </a>
 
-[![Mohamad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhnasser&hide_title=true&hide_border=true&bg_color=ffffff00&color=5168d6&line=81d4df&point=4184c3)](https://github.com/mhnasser/github-readme-activity-graph)
+[![Mohamad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhnasser&hide_title=true&hide_border=true&bg_color=ffffff00&color=70a5fd&line=bf91f3&point=38bdae)](https://github.com/mhnasser/github-readme-activity-graph)
