@@ -9,7 +9,7 @@
     </div>
     <div>
         <a href="https://app.daily.dev/mhnasser">
-            <img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="200" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/>
+            <img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="300" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/>
         </a>
     </div>
 </div>
