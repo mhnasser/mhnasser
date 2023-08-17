@@ -1,31 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hussein Nasser</h1>
 <h3 align="center">A data scientist passionate about AI and machine learning</h3>
 <br>
-<style>
-    .content-container {
-        overflow: auto;
-    }
-    .image-container {
-        float: left;
-        margin-right: 20px; /* Adiciona um espaço entre a imagem e o texto */
-    }
-    .text-container {
-        float: left;
-    }
-</style>
+<a href="https://app.daily.dev/mhnasser"><img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="200" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/></a>
+- 🌱 I’m currently learning **Pytorch, computer vision, statistic**.
 
-<div class="content-container">
-    <div class="image-container">
-        <a href="https://app.daily.dev/mhnasser"><img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="400" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/></a>
-    </div>
-    <div class="text-container">
-        - 🌱 I’m currently learning **Pytorch, computer vision, statistic**.
-        <br>
-        - 📫 How to reach me: **mohamad.nasser@outlook.com.br**
-        <br>
-        - 📄 Certificates -> <a href="https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing">Drive folder link</a>
-    </div>
-</div>
+- 📫 How to reach me: **mohamad.nasser@outlook.com.br**
+
+- 📄 Certificates -> [Drive folder link](https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing)
 
 ------------
 <h3 align="left">Connect with me:</h3>
