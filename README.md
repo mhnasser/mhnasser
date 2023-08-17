@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hussein Nasser</h1>
 <h3 align="center">A data scientist passionate about AI and machine learning</h3>
 <br>
-<div style="display: flex; align-items: start;">
-    <div style="flex: 1; padding-right: 10px;">
+<div style="display: flex;">
+    <div style="flex: 1; padding-right: 20px;">
         - 🌱 I’m currently learning **Pytorch, computer vision, statistic**.<br>
         - 📫 How to reach me: **mohamad.nasser@outlook.com.br**<br>
         - 📄 Certificates -> <a href="https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing">Drive folder link</a>
     </div>
     <div>
         <a href="https://app.daily.dev/mhnasser">
-            <img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="300" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/>
+            <img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="200" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/>
         </a>
     </div>
 </div>
