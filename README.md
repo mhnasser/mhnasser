@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hussein Nasser</h1>
 <h3 align="center">A data scientist passionate about AI and machine learning</h3>
 <br>
-<table cellspacing="0" cellpadding="0" border="0">
+<table style="border-collapse: collapse; border: 0;">
     <tr>
         <!-- This cell will contain the dev card -->
-        <td style="border: 0;">
+        <td style="border: none; padding: 0;">
             <a href="https://app.daily.dev/mhnasser">
                 <img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="400" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/>
             </a>
         </td>
         <!-- This cell will contain the text details -->
-        <td style="border: 0;" valign="top">
+        <td style="border: none; padding: 0;" valign="top">
             🌱 I’m currently learning <strong>Pytorch, computer vision, statistic</strong>.<br>
             📫 How to reach me: <a href="mailto:mohamad.nasser@outlook.com.br">mohamad.nasser@outlook.com.br</a><br>
             📄 Certificates -> <a href="https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing">Drive folder link</a>
