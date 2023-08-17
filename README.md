@@ -1,12 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mohamad Hussein Nasser</h1>
 <h3 align="center">A data scientist passionate about AI and machine learning</h3>
 <br>
+<style>
+    .content-container {
+        overflow: auto;
+    }
+    .image-container {
+        float: left;
+        margin-right: 20px; /* Adiciona um espaço entre a imagem e o texto */
+    }
+    .text-container {
+        float: left;
+    }
+</style>
 
-- 🌱 I’m currently learning **Pytorch, computer vision, statistic**.
-
-- 📫 How to reach me: **mohamad.nasser@outlook.com.br**
-
-- 📄 Certificates -> [Drive folder link](https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing)
+<div class="content-container">
+    <div class="image-container">
+        <a href="https://app.daily.dev/mhnasser"><img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="400" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/></a>
+    </div>
+    <div class="text-container">
+        - 🌱 I’m currently learning **Pytorch, computer vision, statistic**.
+        <br>
+        - 📫 How to reach me: **mohamad.nasser@outlook.com.br**
+        <br>
+        - 📄 Certificates -> <a href="https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing">Drive folder link</a>
+    </div>
+</div>
 
 ------------
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +47,6 @@
 <a href="https://www.mhnasser.com/">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=chartreuse-dark&bg_color=ffffff00" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=4&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark&bg_color=ffffff00" /> 
-    <a href="https://app.daily.dev/mhnasser"><img src="https://api.daily.dev/devcards/e8181e374eae4b8da9db8b05b12c12a3.png?r=fbb" width="400" alt="MOHAMAD HUSSEIN NASSER's Dev Card"/></a>
 </a>
 
 [![Mohamad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhnasser&hide_title=true&hide_border=true&bg_color=ffffff00&color=7fff00&line=448ee4&point=7fff00)](https://github.com/mhnasser/github-readme-activity-graph)
