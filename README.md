@@ -35,7 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="Lang Chain" width="40" height="40"/> 
-  <img src="https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies-thumbnail.png alt="Hugging Face" width="40" height="40"/> 
+  <img src="https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-contenttype=image%2Fsvg%2Bxml&Expires=1734276225&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDI3NjIyNX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=ZIQq5pNoasS%7EicVSV1W2L8PyeCSRr2%7EN6S%7EayYJv5edp64onein8i9QjEyyqE7smr8Cir6G3sUV8iG-jrdBGJVRHC0MhN5M0ngPkVB8PWBVx1qmIZ--QEvBfc397t9bar3-sq7VPSoBy28HDWKou70rvff5ZwImJmTvBbk0FfTJQKYt6yG7kCn5K4rcJYDL5gX6xG9YRnJFR%7EennUDH5gm4nsDF6KtzmUZhnCjDEOS53gxeEfanBSOOoMXwQvj8F7DGzHz6CkwQxGnl6BIix7sj0i26JLM9k16l27MpXOxLUaBHZmbpwkPqOqwYgDvtpkR4%7Elngw5pyuGxyeLzU6Dg__&Key-Pair-Id=K3RPWS32NSSJCE alt="Hugging Face" width="40" height="40"/> 
 </p>
 
 ------------
