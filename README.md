@@ -2,7 +2,7 @@
 <h3 align="center">A data scientist passionate about AI and machine learning</h3>
 <br>
 
-- 🌱 I’m currently learning GenIA, Lang Chain, Huggin Face.
+- 🌱 I’m currently learning GenIA, Lang Chain, Hugging Face.
 
 - 📫 How to reach me: **mohamad.nasser@outlook.com.br**
 
