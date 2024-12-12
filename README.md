@@ -20,39 +20,37 @@
 ------------
 <h3 align="left">Languages and Tools:</h3>
 <br>
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40" />
+
+<p align="left">
+  <a href="https://www.r-project.org/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" height="30" width="40" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <a href="https://www.python.org" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <a href="https://pandas.pydata.org/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="30" width="40" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <a href="https://pytorch.org/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="30" width="40" />
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <a href="https://www.tensorflow.org" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="30" width="40" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
+  <a href="https://scikit-learn.org/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="30" width="40" />
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  <a href="https://seaborn.pydata.org/" target="blank">
+    <img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="30" width="40" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <a href="https://git-scm.com/" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" width="40" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <a href="https://www.mysql.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" width="40" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
+  <a href="https://www.postgresql.org" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" width="40" />
   </a>
 </p>
 
