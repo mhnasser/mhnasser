@@ -35,7 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="Lang Chain" width="40" height="40"/> 
-  <img src="https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies-thumbnail.png" alt="Hugging Face" width="40" height="40"/> 
+  <img src="https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies-thumbnail.png alt="Hugging Face" width="40" height="40"/> 
 </p>
 
 ------------
