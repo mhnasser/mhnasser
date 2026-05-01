@@ -135,7 +135,7 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```
 $ exit
