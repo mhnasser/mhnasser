@@ -137,8 +137,9 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhnasser&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=3FB950)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF)
 
 ```
 $ exit
