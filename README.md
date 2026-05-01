@@ -131,9 +131,8 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.nasser@outlook.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamudinasser)
 
-</div>
-
 ---
+
 $ exit
 > Connection closed. Thanks for stopping by ✦
 ```
