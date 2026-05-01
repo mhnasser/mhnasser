@@ -134,14 +134,6 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 </div>
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhnasser&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhnasser&layout=compact&theme=tokyonight)
-
-```
 $ exit
 > Connection closed. Thanks for stopping by ✦
 ```
