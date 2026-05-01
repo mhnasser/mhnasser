@@ -139,8 +139,8 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 </div>
 
 ---
-
-<div align="center">
+## `~/stats`
+<div align="left">
         
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mhnasser&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF" height="170" />
 
