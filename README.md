@@ -131,8 +131,16 @@ I build **hands-on**: scalable architectures, model cost-benefit analysis, gover
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.nasser@outlook.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamudinasser)
 
+</div>
+
 ---
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+```
 $ exit
 > Connection closed. Thanks for stopping by ✦
 ```
