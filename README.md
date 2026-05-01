@@ -1,45 +1,148 @@
-<h1 align="center">Hi 👋, I'm Mohamad Hussein Nasser</h1>
-<h3 align="center">A data scientist passionate about AI and machine learning</h3>
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          MOHAMAD HUSSEIN NASSER                         -->
+<!--                       Tech Lead · Data Scientist                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-- 🌱 I’m currently learning GenIA, Lang Chain, Hugging Face.
+<div align="center">
 
-- 📫 How to reach me: **mohamad.nasser@outlook.com.br**
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   $ whoami                                                       │
+│   > mohamad_hussein_nasser                                       │
+│                                                                  │
+│   $ cat ./role.txt                                               │
+│   > Tech Lead · Data Scientist · AI Engineer                     │
+│                                                                  │
+│   $ ./run --status                                               │
+│   > [✓] Building scalable LLM systems @ Guidance                 │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-- 📄 Certificates -> [Drive folder link](https://drive.google.com/drive/folders/1uNTOmTVaUydijTGhgq5kx6tGhkfJk_mB?usp=sharing)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+business+needs+into+scalable+AI+systems;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+MLOps;Python+%E2%80%A2+LangChain+%E2%80%A2+AWS+%E2%80%A2+TensorFlow)](https://git.io/typing-svg)
 
-------------
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
-<a href="https://linkedin.com/in/mohamad-hussein-nasser-697332165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-hussein-nasser-697332165" height="30" width="40" /></a>
-<a href="https://kaggle.com/mhnasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhnasser" height="30" width="40" /></a>
-<a href="https://instagram.com/hamudinasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamudinasser" height="30" width="40" /></a>
-</p>
+</div>
 
-------------
-<h3 align="left">Languages and Tools:</h3>
-<br>
+---
 
-<p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="40" height="40"/> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" alt="Lang Chain" width="40" height="40"/> 
-</p>
+## `~/about` 🇧🇷 🇺🇸
 
-------------
-<h3 align="left">Github Stats:</h3>
-<a href="https://www.mhnasser.com/">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mhnasser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=chartreuse-dark&bg_color=ffffff00" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=4&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark&bg_color=ffffff00" /> 
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇧🇷 Sobre
+
+Cientista de Dados **Tech Lead** com **5+ anos** traduzindo necessidades de negócio em soluções de IA — de credit scoring e prevenção a fraudes a chatbots com LLMs e agentes Text-to-SQL.
+
+Trabalho **hands-on**: arquiteturas escaláveis, custo-benefício de modelos, governança e observabilidade. Hoje liderando iniciativas de IA na **Guidance**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🇺🇸 About
+
+Data Scientist & **Tech Lead** with **5+ years** turning business needs into AI solutions — from credit scoring and fraud prevention to LLM chatbots and Text-to-SQL agents.
+
+I build **hands-on**: scalable architectures, model cost-benefit analysis, governance and observability. Currently leading AI initiatives at **Guidance**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/experience`
+
+```
+2025 ──● Guidance              · Tech Lead · Data Scientist     [current]
+        │                        LLMs, RAG, Agents, AWS
+        │
+2022 ──● Global Hitss          · Senior Data Scientist           3y 1mo
+        │                        Credit scoring, fraud, NLP, LLMs
+        │
+2021 ──● Saint-Gobain          · Data Scientist (Pleno)          1y
+        │                        ML lifecycle, R + Python legacy
+        │
+2021 ──● EvoAI                 · Junior Data Scientist           6mo
+        │                        Churn, forecasting, AWS SageMaker
+        │
+2020 ──● Mobly                 · Data Analyst → Intern           1y
+                                 CX analytics, RPA, dashboards
+```
+
+---
+
+## `~/stack`
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI · ML · LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+
+**Cloud & Data**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tooling**
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## `~/focus-areas`
+
+```diff
++ Large Language Models    │ Fine-tuning, prompt engineering, evaluation
++ Retrieval-Augmented Gen  │ Vector stores, hybrid search, re-ranking
++ Agentic Systems          │ LangChain, Agno, Text-to-SQL, tool use
++ MLOps & Observability    │ Langfuse, model monitoring, governance
++ Classical ML             │ Credit scoring, fraud, churn, forecasting
+```
+
+---
+
+## `~/learning`
+
+> 🌱 Currently exploring: **GenAI** · **LangChain** · **Hugging Face**
+
+---
+
+## `~/connect`
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhnasser)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.nasser@outlook.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhnasser)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhnasser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+```
+$ exit
+> Connection closed. Thanks for stopping by ✦
+```
+
+</div>
